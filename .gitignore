@@ -1,0 +1,26 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+.wrangler/
+
+# Local configuration and private credentials
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+*.pem
+*.key
+
+# Private PHP records, sessions and lock files
+PHP-JSON/data/*
+!PHP-JSON/data/.gitkeep
+!PHP-JSON/data/.htaccess
+
+# Local outputs
+*.log
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+# Defense in depth only. The web document root MUST be Lovely/public.
+Require all denied

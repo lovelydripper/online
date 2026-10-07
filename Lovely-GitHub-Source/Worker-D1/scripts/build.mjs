@@ -1,0 +1,5 @@
+import fs from 'node:fs';import path from 'node:path';
+const types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json','.svg':'image/svg+xml','.jpg':'image/jpeg','.webp':'image/webp','.png':'image/png'};
+const files={};function walk(dir){for(const ent of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,ent.name);if(ent.isDirectory())walk(p);else if(!ent.name.startsWith('.'))files['/'+path.relative('public',p).split(path.sep).join('/')]={type:types[path.extname(p)]||'application/octet-stream',data:fs.readFileSync(p).toString('base64')};}}walk('public');
+const source=fs.readFileSync('worker/index.js','utf8').replace('const files=__ASSETS__,catalog=__CATALOG__;','const files='+JSON.stringify(files)+',catalog='+fs.readFileSync('public/catalog.json','utf8')+';');
+fs.rmSync('dist',{recursive:true,force:true});fs.mkdirSync('dist/server',{recursive:true});fs.writeFileSync('dist/server/index.js',source);console.log('Built Lovely Worker with embedded storefront assets.');

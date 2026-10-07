@@ -1,0 +1,115 @@
+{
+  "lovely-hoodie": {
+    "id": "lovely-hoodie",
+    "name": "The everyday oversized hoodie",
+    "description": "An easy oversized silhouette in creamy pink. Relaxed shoulders and a roomy fit for your off-duty days. Sample product; final materials and availability are confirmed by Lovely.",
+    "category": "Clothing",
+    "price": 28900,
+    "original_price": 34000,
+    "colors": [
+      {
+        "name": "Creamy pink",
+        "hex": "#efb5c5"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "assets/lovely-hoodie-1.jpg",
+      "assets/lovely-hoodie-2.jpg",
+      "assets/lovely-hoodie-3.jpg",
+      "assets/lovely-hoodie-4.jpg"
+    ],
+    "badge": "THE LOVELY PICK",
+    "active": true
+  },
+  "lovely-midi": {
+    "id": "lovely-midi",
+    "name": "The Sunday midi dress",
+    "description": "A soft sage palette, button-front detail and an easy midi length. A simple piece to dress up or down. Sample catalog item; ask us about fit and availability.",
+    "category": "Clothing",
+    "price": 24900,
+    "original_price": 24900,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#adb89c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "images": [
+      "assets/lovely-midi-1.webp",
+      "assets/lovely-midi-2.webp",
+      "assets/lovely-midi-3.webp",
+      "assets/lovely-midi-4.webp"
+    ],
+    "badge": "JUST IN",
+    "active": true
+  },
+  "lovely-dots": {
+    "id": "lovely-dots",
+    "name": "The little dot dress",
+    "description": "A playful dotted dress with an airy midi silhouette. For slow afternoons and plans worth dressing up for. Sample catalog item; ask Lovely for sizing details.",
+    "category": "Clothing",
+    "price": 22900,
+    "original_price": 28500,
+    "colors": [
+      {
+        "name": "Ivory & rose",
+        "hex": "#ede6df"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "images": [
+      "assets/lovely-dots-1.webp",
+      "assets/lovely-dots-2.webp",
+      "assets/lovely-dots-3.webp",
+      "assets/lovely-dots-4.webp"
+    ],
+    "badge": "\u221220%",
+    "active": true
+  },
+  "lovely-sneakers": {
+    "id": "lovely-sneakers",
+    "name": "The everyday court sneakers",
+    "description": "Off-white sneakers with red accents and a clean low-top shape. Your everyday outfit, finished. Sample catalog item; availability and fit are confirmed before ordering.",
+    "category": "Shoes",
+    "price": 31900,
+    "original_price": 31900,
+    "colors": [
+      {
+        "name": "Off-white & red",
+        "hex": "#e6e2da"
+      }
+    ],
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "images": [
+      "assets/lovely-sneakers-1.webp",
+      "assets/lovely-sneakers-2.webp",
+      "assets/lovely-sneakers-3.webp",
+      "assets/lovely-sneakers-4.webp"
+    ],
+    "badge": "EVERYDAY FAVORITE",
+    "active": true
+  }
+}

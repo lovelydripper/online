@@ -1,0 +1,268 @@
+{
+  "demo_catalog": [
+    {
+      "id": 91,
+      "title": "Sports Sneakers Off White & Red",
+      "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+      "category": "mens-shoes",
+      "price": 119.99,
+      "discountPercentage": 4.97,
+      "rating": 4.77,
+      "stock": 17,
+      "tags": [
+        "footwear",
+        "athletic shoes"
+      ],
+      "brand": "Off White",
+      "sku": "MEN-OFF-SPO-091",
+      "weight": 7,
+      "dimensions": {
+        "width": 14.37,
+        "height": 23.44,
+        "depth": 12.84
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2025-11-14T03:53:27.125Z",
+        "updatedAt": "2026-06-23T07:36:55.241Z",
+        "barcode": "6740319943645",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/2.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/3.webp",
+        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/4.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
+    },
+    {
+      "id": 163,
+      "title": "Girl Summer Dress",
+      "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+      "category": "tops",
+      "price": 19.99,
+      "discountPercentage": 19.2,
+      "rating": 4.77,
+      "stock": 43,
+      "tags": [
+        "clothing",
+        "girls' dresses"
+      ],
+      "sku": "TOP-BRD-GIR-163",
+      "weight": 5,
+      "dimensions": {
+        "width": 26.19,
+        "height": 20.65,
+        "depth": 10.1
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Mason Pearson",
+          "reviewerEmail": "mason.pearson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Aubrey Garcia",
+          "reviewerEmail": "aubrey.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Charlotte Davis",
+          "reviewerEmail": "charlotte.davis@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 46,
+      "meta": {
+        "createdAt": "2026-07-10T06:59:32.258Z",
+        "updatedAt": "2026-07-23T20:37:00.557Z",
+        "barcode": "6273976484433",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/4.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp"
+    },
+    {
+      "id": 164,
+      "title": "Gray Dress",
+      "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+      "category": "tops",
+      "price": 34.99,
+      "discountPercentage": 14.28,
+      "rating": 2.72,
+      "stock": 55,
+      "tags": [
+        "clothing",
+        "dresses"
+      ],
+      "sku": "TOP-BRD-GRA-164",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.91,
+        "height": 25.72,
+        "depth": 18.55
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Brayden Fleming",
+          "reviewerEmail": "brayden.fleming@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Awesome product!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Michael Johnson",
+          "reviewerEmail": "michael.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 13,
+      "meta": {
+        "createdAt": "2026-02-19T17:46:57.073Z",
+        "updatedAt": "2026-02-28T07:15:35.255Z",
+        "barcode": "5201099489825",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/2.webp",
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/3.webp",
+        "https://cdn.dummyjson.com/product-images/tops/gray-dress/4.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp"
+    },
+    {
+      "id": 180,
+      "title": "Dress Pea",
+      "description": "The Dress Pea is a stylish and comfortable dress with a pea pattern. Perfect for casual outings, it adds a playful and fun element to your wardrobe, making it a great choice for day-to-day wear.",
+      "category": "womens-dresses",
+      "price": 49.99,
+      "discountPercentage": 17.68,
+      "rating": 4.88,
+      "stock": 6,
+      "tags": [
+        "clothing",
+        "dresses"
+      ],
+      "sku": "WOM-BRD-DRE-180",
+      "weight": 1,
+      "dimensions": {
+        "width": 28.51,
+        "height": 20.99,
+        "depth": 12.58
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Harper Turner",
+          "reviewerEmail": "harper.turner@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Luna Russell",
+          "reviewerEmail": "luna.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Would not buy again!",
+          "date": "2025-04-30T09:41:02.054Z",
+          "reviewerName": "Michael Johnson",
+          "reviewerEmail": "michael.johnson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 6,
+      "meta": {
+        "createdAt": "2026-07-20T21:26:31.320Z",
+        "updatedAt": "2026-08-04T08:18:36.789Z",
+        "barcode": "8142375980193",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/3.webp",
+        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/4.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp"
+    }
+  ],
+  "hoodie": {
+    "source": "https://athletic-aesthetics.de/collections/men-hoodies/products/oversized-hoodie-creamy-pink-hq-basics",
+    "images": [
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-229437.jpg?v=1695422717&width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-818746.jpg?v=1695422717&width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-945238.jpg?v=1695422717&width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-577692.jpg?v=1695422717&width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-767956.jpg?width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-889918.jpg?width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-682740.jpg?width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-984289.jpg?width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-317922.jpg?width=1080",
+      "https://athletic-aesthetics.de/cdn/shop/products/oversized-hoodie-creamy-pink-hq-basics-145383.jpg?width=1080"
+    ]
+  }
+}
